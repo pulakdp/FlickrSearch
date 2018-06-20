@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flickr Search</string>
+    <string name="empty_text">Welcome! \n Click the search icon to get started</string>
+    <string name="error_text">Oops! \n Something went wrong</string>
+    <string name="action_search">Search</string>
+    <string name="single_photo">Single Photo</string>
+    <string name="grid_size">Grid Size</string>
+    <string name="need_internet">Need internet to see more!</string>
+    <string name="loading_from_cache">Loading from cache. No internet.</string>
+    <string name="photo_url">url</string>
+</resources>
